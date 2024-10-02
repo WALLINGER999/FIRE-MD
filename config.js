@@ -71,8 +71,8 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'false'
-global.packname = 'FIRE MD'
-global.author = 'OPAKSFIRE'
+global.packname = 'R3SH'
+global.author = 'R3SH'
 global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
 global.dygp = 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W'
