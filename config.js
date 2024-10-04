@@ -70,7 +70,7 @@ global.APIKeys = {
 
 // Sticker WM
 global.botname = process.env.BOTNAME
-global.premium = 'false'
+global.premium = 'true'
 global.packname = 'R3SH'
 global.author = 'R3SH'
 global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
